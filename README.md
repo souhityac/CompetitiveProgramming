@@ -5,5 +5,5 @@
 2. Number of occurences of an element x in an array A - NumOccurences
 #### Merge Sort
 1. CodeChef Practice Problem - [MRGSRT](https://www.codechef.com/problems/MRGSRT)
-
-
+#### Quick Sort
+1.Standard Quick Sort
