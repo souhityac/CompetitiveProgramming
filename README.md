@@ -1,2 +1,2 @@
 # CompetitiveProgrammingwithC++
-Implementations of basic concepts required for competitive programming using C++
+Codechef foundation level preparation using C++
