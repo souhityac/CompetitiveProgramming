@@ -6,4 +6,4 @@
 #### Merge Sort
 1. CodeChef Practice Problem - [MRGSRT](https://www.codechef.com/problems/MRGSRT)
 #### Quick Sort
-1.Standard Quick Sort
+1. Standard Quick Sort - QuickSort
