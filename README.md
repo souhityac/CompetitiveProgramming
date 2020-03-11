@@ -9,3 +9,5 @@
 2. GeeksforGeeks - [kth element of two sorted arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0/) 
 #### Quick Sort
 1. Standard Quick Sort - QuickSort
+#### Numbers
+1. GeeksforGeeks - [convertFive](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/)
