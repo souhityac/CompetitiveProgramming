@@ -11,3 +11,5 @@
 1. Standard Quick Sort - QuickSort
 #### Numbers
 1. GeeksforGeeks - [convertFive](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/)
+#### Dynamic Programming
+1. GeeksforGeeks - [LIS](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/)
