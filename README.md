@@ -14,3 +14,4 @@
 #### Dynamic Programming
 1. GeeksforGeeks - [Longest Increasing Subsequence(LIS)](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0/)
 2. GeeksforGeeks - [Longest Common Subsequence(LCS)](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0/)
+3. GeeksforGeeks - [Number of ways to count change](https://practice.geeksforgeeks.org/problems/coin-change/0/)
