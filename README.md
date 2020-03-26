@@ -12,6 +12,7 @@
 #### Numbers
 1. GeeksforGeeks - [convertFive](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/)
 #### Dynamic Programming
-1. GeeksforGeeks - [Longest Increasing Subsequence(LIS)](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0/)
-2. GeeksforGeeks - [Longest Common Subsequence(LCS)](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0/)
-3. GeeksforGeeks - [Number of ways to count change](https://practice.geeksforgeeks.org/problems/coin-change/0/)
+1. GeeksforGeeks - [LIS:Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0/)
+2. GeeksforGeeks - [LCS:Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0/)
+3. GeeksforGeeks - [CountWays:Number of ways to count change](https://practice.geeksforgeeks.org/problems/coin-change/0/)
+4. GeeksforGeeks - [0/1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0/)
