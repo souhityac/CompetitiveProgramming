@@ -19,3 +19,4 @@
 5. GeeksforGeeks - [MinCoins: Print mininum coins used to make change](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0/)
 6. Subset Sum Problem - I
 7. Subset Sum Problem - II
+8. GeeksforGeeks - [MatrixPath](https://practice.geeksforgeeks.org/problems/path-in-matrix/0/)
